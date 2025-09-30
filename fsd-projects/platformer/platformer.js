@@ -25,7 +25,7 @@ $(function () {
     //////////////////////////////////
     // ONLY CHANGE BELOW THIS POINT //
     //////////////////////////////////
-
+   
     // TODO 1 - Enable the Grid
      toggleGrid();
 
